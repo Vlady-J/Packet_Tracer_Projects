@@ -1,3 +1,7 @@
+
+
+<img width="1250" height="775" alt="Corporate_Network_Topology" src="https://github.com/user-attachments/assets/1f991a00-9218-4c36-859d-4531d0b47f28" />
+
 <img width="1536" height="1024" alt="Corporate_Network_Topology_1" src="https://github.com/user-attachments/assets/848d79bd-ee32-49bd-a981-54a646ded6a9" />
 1. Project Overview
 Introduction
