@@ -1,1 +1,1 @@
-<img width="2554" height="1289" alt="Corporate_Network_Topology_Logical" src="https://github.com/user-attachments/assets/182c978d-1acd-4fb1-abaf-7fb1c90ad31d" />
+<img width="2586" height="1273" alt="Corporate_Network_Topology_Logical_1" src="https://github.com/user-attachments/assets/867fe0d2-689c-4460-a162-b84f23c2cc56" />
