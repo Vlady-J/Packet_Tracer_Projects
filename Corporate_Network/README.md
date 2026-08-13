@@ -224,12 +224,6 @@ Corporate_Network/
 │
 ├── README.md
 │
-├── diagrams/
-│   ├── Corporate_Network_Topology.png
-│   ├── Interfaces_IP_Addressing.png
-│   ├── Logical_Topology.png
-│   └── VLAN_Overview.png
-│
 ├── configurations/
 │   ├── EDGE/
 │   ├── FIREWALL/
@@ -239,12 +233,10 @@ Corporate_Network/
 │   └── SERVER_FARM/
 │
 ├── documentation/
-│   ├── Network_Design.pdf
-│   ├── IP_Addressing.md
-│   ├── VLAN_Design.md
-│   ├── Routing_Design.md
-│   ├── Security_Design.md
-│   └── Validation.md
+│   ├── 01_Network_Overview.md
+│   ├── diagrams/
+│       ├── 02_Logical_Network_Diagram.md
+│       ├── 03_IP_Addressing_Diagram.md
 │
 └── screenshots/
 ```
