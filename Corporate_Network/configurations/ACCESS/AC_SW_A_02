@@ -1,4 +1,4 @@
-hostname AC_SW_B_02
+hostname AC_SW_A_02
 !
 enable secret 5 $1$mERr$UDKblEmcsITJG4Bqjr2Hd0
 !
