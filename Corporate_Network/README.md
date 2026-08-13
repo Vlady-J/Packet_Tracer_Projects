@@ -12,6 +12,9 @@
 
 
 ---
+
+### Network Topology
+
 <img width="1537" height="1024" alt="Corporate_Network_Topology_Layers" src="https://github.com/user-attachments/assets/9e85b9a7-2f4b-43c9-adee-7f66512d1d29" />
 
 <img width="1250" height="775" alt="Corporate_Network_Topology" src="https://github.com/user-attachments/assets/daea1252-d40c-4cac-9420-7599643d6f0b" />
@@ -44,10 +47,6 @@ The infrastructure is organized into the following layers:
 * **Distribution Layer** – Layer 3 aggregation and gateway redundancy
 * **Access Layer** – endpoint, voice and wireless connectivity
 * **Server Farm** – centralized infrastructure and network services
-
-### Network Topology
-
-![Corporate Network Topology](diagrams/Corporate_Network_Topology.png)
 
 ---
 
