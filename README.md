@@ -3,7 +3,7 @@
 > Practical Cisco networking projects built with Cisco Packet Tracer.
 
 <p align="center">
-  <img src="Corporate_Network/screenshots/Corporate_Network.md" width="900">
+ <img width="1250" height="775" alt="Corporate_Network_Topology" src="https://github.com/user-attachments/assets/daea1252-d40c-4cac-9420-7599643d6f0b" />
 </p>
 
 ---
