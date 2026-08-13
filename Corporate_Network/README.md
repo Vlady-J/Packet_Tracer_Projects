@@ -10,6 +10,18 @@
 ![Security](https://img.shields.io/badge/Security-ASA%20%7C%20ACL-red)
 ![Platform](https://img.shields.io/badge/Platform-Cisco%20Packet%20Tracer-lightgrey)
 
+
+---
+<img width="1537" height="1024" alt="Corporate_Network_Topology_Layers" src="https://github.com/user-attachments/assets/9e85b9a7-2f4b-43c9-adee-7f66512d1d29" />
+
+<img width="1250" height="775" alt="Corporate_Network_Topology" src="https://github.com/user-attachments/assets/daea1252-d40c-4cac-9420-7599643d6f0b" />
+
+
+
+
+
+
+
 ---
 
 ## 📌 Project Overview
@@ -333,8 +345,6 @@ Centralized DHCP, DNS, Syslog, SNMP, NTP and AAA services simplify network admin
 
 Potential future enhancements include:
 
-* IPv6 deployment
-* 802.1X network authentication
 * Cisco ISE integration
 * Network automation with Ansible
 * Centralized monitoring with Zabbix
@@ -349,23 +359,16 @@ Potential future enhancements include:
 
 Additional technical documentation is available in the `documentation/` directory.
 
-* [Network Design](documentation/Network_Design.md)
-* [IP Addressing](documentation/IP_Addressing.md)
-* [VLAN Design](documentation/VLAN_Design.md)
-* [Routing Design](documentation/Routing_Design.md)
-* [Security Design](documentation/Security_Design.md)
-* [Validation & Testing](documentation/Validation.md)
+* [Network Overview](documentation/01_Network_Overview.md)
+* [Logical Diagram](documentation/02_Logical_Network_Diagram.md)
+* [IP Addressing](documentation/03_IP_Addresing_Diagram.md)
 
 ---
 
 ## 👤 Author
 
-**Chris Salmon**
+**Vlady-J**
 
 Cisco Networking Portfolio Project
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License.
