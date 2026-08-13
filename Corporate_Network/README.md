@@ -356,6 +356,13 @@ Additional technical documentation is available in the `documentation/` director
 
 ---
 
+
+## 🔑 Credentials
+
+Device configuration credentials are available upon request.
+
+---
+
 ## 👤 Author
 
 **Vlady-J**
