@@ -352,7 +352,7 @@ Additional technical documentation is available in the `documentation/` director
 
 * [Network Overview](documentation/01_Network_Overview.md)
 * [Logical Diagram](documentation/diagrams/02_Logical_Network_Diagram.md)
-* [IP Addressing](documentation/diagrams/03_IP_Addresing_Diagram.md)
+* [IP Addressing](documentation/diagrams/03_IP_Addressing_Diagram.md)
 
 ---
 
